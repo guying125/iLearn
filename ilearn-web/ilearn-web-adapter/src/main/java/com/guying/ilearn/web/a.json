@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "errCode": null,
+  "errMessage": null,
+  "data": [
+    {
+      "customerId": null,
+      "memberId": null,
+      "customerName": "Frank",
+      "customerType": null,
+      "companyName": null,
+      "source": null
+    }
+  ],
+  "empty": false,
+  "notEmpty": true
+}
