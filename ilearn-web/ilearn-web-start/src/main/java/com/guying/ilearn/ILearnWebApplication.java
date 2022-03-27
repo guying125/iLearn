@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @author Frank Zhang
  */
-@SpringBootApplication(scanBasePackages = {"com.guying.ilearn","com.alibaba.cola"})
+@SpringBootApplication(scanBasePackages = {"com.guying.ilearn", "com.alibaba.cola"})
 @MapperScan("com.guying.ilearn.repository")
 public class ILearnWebApplication {
 

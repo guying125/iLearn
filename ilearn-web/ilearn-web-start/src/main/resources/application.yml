@@ -14,9 +14,9 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
       driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/pms?useUnicode=true&characterEncoding=UTF-8&zoneDateTimeBehavior=convertToNull&autoReconnect=true&useSSL=false
+      url: jdbc:mysql://localhost:3306/gyrbac?useUnicode=true&characterEncoding=UTF-8&zoneDateTimeBehavior=convertToNull&autoReconnect=true&useSSL=false
       username: root
-      password: root
+      password: yqj123456...
       filters: stat,wall,slf4j,config
       max-active: 100
       initial-size: 1
