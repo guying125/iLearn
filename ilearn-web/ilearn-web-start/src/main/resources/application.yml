@@ -40,3 +40,9 @@ pagehelper:
   reasonable: true
   support-methods-arguments: true
   params: count=countSql
+
+
+# 测试用
+test:
+  name: 杨庆军
+  age: 29
